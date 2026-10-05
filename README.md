@@ -1,7 +1,7 @@
 <div align="center">
   <img src="screenshots/app_logo.jpg" width="96" alt="Spendora App Logo" />
   <h1>💎 Spendora — Smart Subscription & Expense Tracker</h1>
-  <p><b>Mobile Application Development Capstone Project 2026</b></p>
+  <p><b>Native iOS Financial Telemetry, Subscription Analytics & Expense Suite</b></p>
 
   <p>
     <img src="https://img.shields.io/badge/Platform-iOS%2017.0%2B-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS 17+">
@@ -22,7 +22,7 @@
 
 ## 📌 Project Overview
 
-**Spendora** is a native iOS application developed as a final **Mobile Application Development Capstone Project**. It helps users track recurring subscriptions, manage upcoming renewal dates, log bill payments with instant undo, and analyze spending patterns. 
+**Spendora** is a privacy-first, offline-capable native iOS subscription and expense tracking application. It helps users track recurring subscriptions, manage upcoming renewal dates, log bill payments with instant undo, and analyze spending patterns. 
 
 Built with **SwiftUI**, **SwiftData**, **Swift Charts**, and **WidgetKit**, Spendora operates 100% offline on-device without requiring external servers or bank credentials.
 
@@ -285,11 +285,12 @@ Spendora/
 
 ---
 
-## 👨‍💻 Author & Academic Information
+## 👨‍💻 Author
 
 * **Developer**: Sheikh Naim
-* **Course**: Mobile Application Development Capstone 2026
-* **Repository**: [github.com/snaimio/Spendora](https://github.com/snaimio/Spendora)
+* **Portfolio**: [snaimio.github.io](https://snaimio.github.io)
+* **LinkedIn**: [linkedin.com/in/snaimio](https://www.linkedin.com/in/snaimio)
+* **GitHub**: [@snaimio](https://github.com/snaimio)
 
 ---
 
