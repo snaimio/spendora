@@ -171,7 +171,7 @@ struct UserProfile: Codable {
 |---|---|
 | `CurrencyManager` | Formats currencies and resolves symbols across 10+ currencies (USD, CAD, EUR, GBP, JPY, AUD, etc.). |
 | `NotificationService` | Schedules advance local reminders for upcoming renewal dates via `UNUserNotificationCenter`. |
-| `WidgetSyncService` | Real-time synchronization of active subscriptions and spending to WidgetKit via App Groups (`group.com.trios2026sn.Spendora`). |
+| `WidgetSyncService` | Real-time synchronization of active subscriptions and spending to WidgetKit via App Groups (`group.com.2026sn.Spendora`). |
 | `BudgetService` | Calculates budget compliance, spend progress, and alerts against user-defined spending caps. |
 | `BackupService` | Generates secure JSON data exports and handles local document picker restoration. |
 | `PDFExportService` | Generates vector-rendered PDF reports summarizing yearly and monthly spend breakdowns. |
